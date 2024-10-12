@@ -10,5 +10,5 @@ Welcome to my `algorithm-practice` repository! This repository contains solution
 
 ## Structure
 
-The repository is structured by language and then further divided by problem categories (e.g., Arrays, Sorting, Dynamic Programming, etc.). Each folder contains solutions for different algorithm challenges.
+The repository is structured by language and then further divided by problem categories (e.g., Arrays, Sorting, Dynamic Programming, etc.). Each folder contains solutions for different algorithm challenges...
 
